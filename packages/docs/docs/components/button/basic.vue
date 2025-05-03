@@ -24,11 +24,11 @@
       <g-button type="danger" round>危险按钮</g-button>
       <br />
       <br />
-      <g-button circle icon="tas-icon-upload"></g-button>
-      <g-button type="primary" circle icon="tas-icon-alarm"></g-button>
-      <g-button type="success" circle icon="tas-icon-arrowdown"></g-button>
-      <g-button type="info" circle icon="tas-icon-arrowleft"></g-button>
-      <g-button type="danger" circle icon="tas-icon-arrowright"></g-button>
+      <g-button circle icon="g-icon-upload"></g-button>
+      <g-button type="primary" circle icon="g-icon-alarm"></g-button>
+      <g-button type="success" circle icon="g-icon-arrowdown"></g-button>
+      <g-button type="info" circle icon="g-icon-arrowleft"></g-button>
+      <g-button type="danger" circle icon="g-icon-arrowright"></g-button>
     </div>
 </div>
 </template>
