@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "GUI Vue"
-  text: "Build my own ui component library"
+  name: GUI Vue
+  text: Build my own UI component library
   tagline: Go Go Go
   actions:
     - theme: brand
