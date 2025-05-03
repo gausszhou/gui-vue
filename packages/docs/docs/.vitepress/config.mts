@@ -31,5 +31,7 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/gausszhou/gui-vue' }
     ]
-  }
+  },
+  outDir: '../../../dist/gui-vue',
+  base: '/gui-vue/'
 })

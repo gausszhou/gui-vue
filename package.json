@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "docs:dev": "pnpm --filter @gui-vue/docs run docs:dev"
+    "docs:dev": "pnpm --filter @gui-vue/docs run docs:dev",
+    "docs:build": "pnpm --filter @gui-vue/docs run docs:build"
   },
   "keywords": [],
   "author": "",
