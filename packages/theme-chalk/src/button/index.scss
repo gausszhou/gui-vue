@@ -1,0 +1,9 @@
+.g-button {
+    padding: 4px;
+    border: 1px solid;
+    border-radius: 4px;
+}
+
+.g-button+.g-button {
+    margin-left: 8px;
+}
