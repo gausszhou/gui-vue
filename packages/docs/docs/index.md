@@ -8,11 +8,11 @@ hero:
   tagline: Go Go Go
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Guide
+      link: /guide
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Components
+      link: /components
 
 features:
   - title: Feature A
