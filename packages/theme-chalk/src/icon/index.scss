@@ -1,8 +1,8 @@
 @font-face {
   font-family: "g-icons";
-  src: url("./fonts/iconfont.woff2") format("woff2"),
-    url("./fonts/iconfont.woff") format("woff"),
-    url("./fonts/iconfont.ttf") format("truetype");
+  src: url("/fonts/iconfont.woff2") format("woff2"),
+    url("/fonts/iconfont.woff") format("woff"),
+    url("/fonts/iconfont.ttf") format("truetype");
   font-weight: normal;
   font-display: auto;
   font-style: normal;
@@ -12,18 +12,13 @@
 [class*=" g-icon-"] {
   font-family: "g-icons" !important;
   font-size: 14px;
-  line-height: 14px;
+  line-height: 1;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
   text-transform: none;
-  line-height: 1;
   vertical-align: baseline;
   display: inline-block;
-
-  /* Better Font Rendering =========== */
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 .g-icon-eye-closed:before {
