@@ -11,6 +11,7 @@
   "license": "ISC",
   "packageManager": "pnpm@10.6.2",
   "dependencies": {
-    "vue": "^3.5.13"
+    "vue": "^3.5.13",
+    "@gui-vue/theme-chalk": "workspace:*"
   }
 }
